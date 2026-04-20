@@ -99,8 +99,6 @@ Tourists often face challenges such as:
 ---
 
 
-# Navigate to project
-cd tourmate
 
-# Run project
-# (Add your command here)
+
+
