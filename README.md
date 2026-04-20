@@ -92,7 +92,7 @@ Tourists often face challenges such as:
 
 ## ☁️ Technologies Used
 - Frontend: HTML, CSS, JavaScript  
-- Backend: *(Add your tech e.g., Node.js / Java / Python)*  
+- Backend: *( Node.js / Java / Python)*  
 - Database: MySQL / MongoDB  
 - Tools: Git, GitHub, Draw.io / StarUML  
 
